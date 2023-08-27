@@ -1,4 +1,5 @@
-MS SQL script
+MS SQL script for task 2:
+
 
 CREATE TABLE Products (
 	Id INT PRIMARY KEY,
